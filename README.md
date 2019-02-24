@@ -1,6 +1,8 @@
 # DiYuHuo-X6-MacOS-High-Sierra-10.13.6-Hackintosh
-##火影地狱火X6(H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
+## 火影地狱火X6(H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
 
+## 安装说明
+  先安装10.13.6（17G65）,然后改机型(MacBook Pro14,2)，再去AppStore更新系统
 
 *   ###   驱动了
 *   `核显`（UHD 630,VRAM=2048M）
@@ -21,12 +23,12 @@
 *   `独显`（GTX 1066(三星)），装了驱动，但是识别不出显卡，待完善
 
 
-##有问题反馈
+## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流，但出现的任何问题，我不负责
 
 * 邮件(gaofeicm#gmail.com, 把#换成@)
 
-##感激
+## 感激
 感谢以下的项目,排名不分先后
 
 * [黑苹果群](https://im.qq.com/) 
@@ -34,7 +36,7 @@
 * [远景论坛](http://bbs.pcbeta.com/)
 * [tonymacx86](https://www.tonymacx86.com)
 
-##关于作者
+## 关于作者
 
 ```javascript
   var ihubo = {

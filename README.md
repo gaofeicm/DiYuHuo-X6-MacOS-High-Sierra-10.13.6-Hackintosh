@@ -1,10 +1,20 @@
 # DiYuHuo-X6-MacOS-High-Sierra-10.13.6-Hackintosh
-## 火影地狱火X6(H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
+
+火影地狱火X6 10.13.6（17G5019）版本黑苹果EFI
+
+## 主要硬件预览
+*    H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
+*   `主板` H370（USB2.0\*4 + USB3.1\*2 + TYPE-C\*1:非全功能 + HDMI\*1 + RJ45\*1）
+*   `CPU` i7-8750H（6C 12T）
+*   `核显` Intel UHD Graphics 630
+*   `独显` GTX1060（三星6GB）
+*   `声卡` ACL269
+*   `无线网卡` 联想BCM94352Z
 
 ## 安装说明
   先安装10.13.6（17G65）,然后改机型(MacBook Pro14,2)，再去AppStore更新系统
 
-*   ###   驱动了
+## 驱动了
 *   `核显`（UHD 630,VRAM=2048M）
 *   `声卡`（ACL269,layoutId = 6,内建,切换正常）
 *   `网卡`（RealtekRTL8111 + BCM94352Z）
@@ -19,8 +29,8 @@
 *   `iMessage,FaceTime`等苹果应用正常，iTunes打开正常，不卡顿
 *   `SMBIOS`信息注入，可到苹果官网查到机器信息。
 
-*   ###   未驱动
-*   `独显`（GTX 1066(三星)），装了驱动，但是识别不出显卡，待完善
+## 未驱动
+*   `独显`（GTX 1066(三星)），装了驱动，但是不能完全识别出显卡（认出了GTX1060 内存只有256M），待完善。可能已经走到了山穷水尽的地步了吧，笔记本双显卡驱动成功的案例少之又少，按照成功的例子来我却怎么也驱动不了（我只是想要个双屏），可能真如他们所说，需要屏蔽核显吧！
 
 
 ## 有问题反馈
@@ -31,6 +41,7 @@
 ## 其他系统版本
 * MacOS 10.14.3 : https://github.com/gaofeicm/DiYuHuo-X6-MacOS-Mojave-10.14.3-Hackintosh
 * `荐`MacOS 10.13.6（17G2112） : https://github.com/gaofeicm/DiYuHuo-X6-MacOS-High-Sierra-10.13.6-17G2112-Hackintosh
+* `注`：17G2112版本以上EFI，理论通用
 
 ## 感激
 感谢以下的项目,排名不分先后

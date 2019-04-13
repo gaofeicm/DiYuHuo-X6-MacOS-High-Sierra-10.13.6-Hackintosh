@@ -28,6 +28,10 @@
 
 * 邮件(gaofeicm#gmail.com, 把#换成@)
 
+## 其他系统版本
+* MacOS 10.14.3 : https://github.com/gaofeicm/DiYuHuo-X6-MacOS-Mojave-10.14.3-Hackintosh
+* MacOS 10.13.6（17G2112） : https://github.com/gaofeicm/DiYuHuo-X6-MacOS-High-Sierra-10.13.6（17G2112）-Hackintosh
+
 ## 感激
 感谢以下的项目,排名不分先后
 
@@ -44,4 +48,3 @@
     site : "https://www.gaofeicm.cn"
   }
 ```
-
